@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "e636111f2127b963",
+    "type": "split",
+    "children": [
+      {
+        "id": "57857ad73c44d225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ccbdd2ea40231d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6870c7dd0fa6a19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cc107fd1ef60e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd96f599644fd8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "938924b61c0a734e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87fb7b91d3644b01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2d6c17fd77fa99a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "8c9ed6e0ba58db55",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ade7b7ef860ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee841ab94e8de22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfa84a325658796e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba41beace6f0819c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5575bf36944aebf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. EC2 - Solutions Architect Associate Level.md"
+              }
+            }
+          },
+          {
+            "id": "b5377f9aeb46abf0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "43ccbdd2ea40231d",
+  "lastOpenFiles": [
+    "Private vs Public IP (IPv4).svg",
+    "Untitled Diagram.svg",
+    "3. EC2 - Solutions Architect Associate Level.md",
+    "Untitled.canvas",
+    "1. IAM & AWS CLI.md",
+    "2. EC2 Fundamentals.md",
+    "27. Other Services.md",
+    "26. More Solution Architectures.md",
+    "25. Disaster Recovery & Migrations.md",
+    "24. Networking - VPC.md",
+    "23. AWS Security & Encryption - KMS, SSM Parameter Store, CloudHSM, Shield, WAF.md",
+    "22. Identity and Access Management (IAM) - Advanced.md",
+    "21. AWS Monitoring & Audit - CloudWatch, CloudTrail and & Config.md",
+    "20. Machine Learning.md",
+    "19. Data & Analytics.md",
+    "18. Databases in AWS.md",
+    "17. Serverless Solution Architecture Discussions.md",
+    "16. Serverless Overviews from a Solution Architect Perspective.md",
+    "15. Containers on AWS - ECS, Fargate, ECR & EKS.md",
+    "14. Decoupling Applications - SQS, SNS, Kinesis, Active MQ.md",
+    "13. AWS Storage Extras.md",
+    "12. CloudFront & AWS Global Accelerator.md",
+    "11. Amazon S3 Security.md",
+    "10. Advanced Amazon S3.md",
+    "9. Amazon S3 Introduction.md",
+    "8. Classic Solutions Architecture Discussions.md",
+    "7. Route 53.md",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
+  ]
+}
