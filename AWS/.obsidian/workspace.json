@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "57857ad73c44d225",
-        "type": "tabs",
+        "id": "081612e6c64ec4b9",
+        "type": "split",
         "children": [
           {
-            "id": "43ccbdd2ea40231d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
-                "mode": "source",
-                "source": false
+            "id": "57857ad73c44d225",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "43ccbdd2ea40231d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. EC2 - Solutions Architect Associate Level.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "c0fab440b74fbb25",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78c0349a66d69655",
+                "type": "leaf",
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Placement Groups - Cluster.svg"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -165,9 +188,9 @@
   },
   "active": "43ccbdd2ea40231d",
   "lastOpenFiles": [
-    "Private vs Public IP (IPv4).svg",
-    "Untitled Diagram.svg",
+    "Placement Groups - Cluster.svg",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "Private vs Public IP (IPv4).svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
     "2. EC2 Fundamentals.md",
