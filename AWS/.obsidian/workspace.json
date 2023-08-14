@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. EC2 Fundamentals.md"
+                "file": "5. High Availability and Scalability - ELB & ASG.md"
               }
             }
           },
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bb85b420c0b065",
+  "active": "5575bf36944aebf0",
   "lastOpenFiles": [
-    "2. EC2 Fundamentals.md",
     "4. EC2 Instance Storage.md",
-    "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "2. EC2 Fundamentals.md",
+    "1. IAM & AWS CLI.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
