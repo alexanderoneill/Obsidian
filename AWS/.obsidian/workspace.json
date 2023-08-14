@@ -145,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28223ee72844bfa",
+  "active": "5ee841ab94e8de22",
   "lastOpenFiles": [
     "4.2 EBS Snapshots.svg",
     "4. EC2 Instance Storage.md",
