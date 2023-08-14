@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5377f9aeb46abf0",
+  "active": "50bb85b420c0b065",
   "lastOpenFiles": [
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
