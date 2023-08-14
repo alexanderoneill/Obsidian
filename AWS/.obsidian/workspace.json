@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Critical-applications",
+                "query": "tag:#EFS-Encryption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "c28223ee72844bfa",
   "lastOpenFiles": [
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
