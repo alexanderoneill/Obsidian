@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a92ee8ca912fecda",
-        "type": "split",
+        "id": "57857ad73c44d225",
+        "type": "tabs",
         "children": [
           {
-            "id": "57857ad73c44d225",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "43ccbdd2ea40231d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3. EC2 - Solutions Architect Associate Level.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "43ccbdd2ea40231d",
+            "type": "leaf",
+            "state": {
+              "type": "diagram",
+              "state": {
+                "file": "Placement Groups - Cluster.svg"
               }
-            ]
-          },
-          {
-            "id": "45fee6cddbf5ddea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0e9e1ca2ce55a44c",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Untitled Diagram.svg"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,16 +30,6 @@
         "id": "8cc107fd1ef60e61",
         "type": "tabs",
         "children": [
-          {
-            "id": "dcd96f599644fd8d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "938924b61c0a734e",
             "type": "leaf",
@@ -95,12 +60,23 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "3c0f5c4e142e8373",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 1134.5
   },
   "right": {
     "id": "8c9ed6e0ba58db55",
@@ -116,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Placement Groups - Cluster.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Placement Groups - Cluster.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Placement Groups - Cluster.svg"
               }
             }
           },
@@ -186,11 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e9e1ca2ce55a44c",
+  "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
     "3. EC2 - Solutions Architect Associate Level.md",
-    "Untitled Diagram.svg",
+    "Placement Groups - Partition.svg",
     "Placement Groups - Cluster.svg",
+    "4. EC2 Instance Storage.md",
     "Private vs Public IP (IPv4).svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
@@ -215,7 +192,6 @@
     "10. Advanced Amazon S3.md",
     "9. Amazon S3 Introduction.md",
     "8. Classic Solutions Architecture Discussions.md",
-    "7. Route 53.md",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
+    "7. Route 53.md"
   ]
 }
