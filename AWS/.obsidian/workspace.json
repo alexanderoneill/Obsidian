@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2b814b9aa85d585b",
-        "type": "split",
+        "id": "11c7978f667802ed",
+        "type": "tabs",
         "children": [
           {
-            "id": "11c7978f667802ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c28223ee72844bfa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3. EC2 - Solutions Architect Associate Level.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "c28223ee72844bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "4015738e62f97826",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "489fb33674fcdcbd",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Diagrams/3.6 EC2 Hibernate.svg"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,18 +165,18 @@
   },
   "active": "c28223ee72844bfa",
   "lastOpenFiles": [
-    "Diagrams/3.6 EC2 Hibernate.svg",
+    "2. EC2 Fundamentals.md",
+    "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams/3.5 Elastic Network Interfaces.svg",
     "Diagrams/3.3 Placement Groups - Spread.svg",
     "Diagrams",
     "Diagrams/3.1 Private vs Public IP (IPv4).svg",
-    "2. EC2 Fundamentals.md",
     "4. EC2 Instance Storage.md",
     "Diagrams/3.2 Placement Groups - Cluster.svg",
     "Diagrams/3.4 Placement Groups - Partition.svg",
     "Untitled.canvas",
-    "1. IAM & AWS CLI.md",
     "27. Other Services.md",
     "26. More Solution Architectures.md",
     "25. Disaster Recovery & Migrations.md",
