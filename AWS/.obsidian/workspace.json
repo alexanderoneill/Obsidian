@@ -10,6 +10,7 @@
           {
             "id": "11c7978f667802ed",
             "type": "tabs",
+            "dimension": 52.28571428571429,
             "children": [
               {
                 "id": "c28223ee72844bfa",
@@ -28,6 +29,7 @@
           {
             "id": "c8a548576758d2b8",
             "type": "tabs",
+            "dimension": 47.714285714285715,
             "children": [
               {
                 "id": "398b85d1fb16cee0",
@@ -35,7 +37,7 @@
                 "state": {
                   "type": "diagram-edit",
                   "state": {
-                    "file": "Untitled Diagram.svg"
+                    "file": "Placement Groups - Spread.svg"
                   }
                 }
               }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "3. EC2 - Solutions Architect Associate Level.md"
               }
             }
           },
@@ -186,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398b85d1fb16cee0",
+  "active": "c28223ee72844bfa",
   "lastOpenFiles": [
+    "Private vs Public IP (IPv4).svg",
+    "2. EC2 Fundamentals.md",
     "3. EC2 - Solutions Architect Associate Level.md",
-    "Untitled Diagram.svg",
+    "Placement Groups - Spread.svg",
     "4. EC2 Instance Storage.md",
     "Placement Groups - Cluster.svg",
     "Placement Groups - Partition.svg",
-    "Private vs Public IP (IPv4).svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
-    "2. EC2 Fundamentals.md",
     "27. Other Services.md",
     "26. More Solution Architectures.md",
     "25. Disaster Recovery & Migrations.md",
