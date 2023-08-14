@@ -35,7 +35,7 @@
                 "state": {
                   "type": "diagram-edit",
                   "state": {
-                    "file": "Untitled Diagram.svg"
+                    "file": "4.2 EBS Snapshots.svg"
                   }
                 }
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "4.2 EBS Snapshots.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "4.2 EBS Snapshots.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "4.2 EBS Snapshots.svg"
               }
             }
           },
@@ -189,7 +189,7 @@
   "active": "b5e7ec00b64a241a",
   "lastOpenFiles": [
     "4. EC2 Instance Storage.md",
-    "Untitled Diagram.svg",
+    "4.2 EBS Snapshots.svg",
     "Diagrams/4.1 EBS Volumes Example.svg",
     "3. EC2 - Solutions Architect Associate Level.md",
     "1. IAM & AWS CLI.md",
