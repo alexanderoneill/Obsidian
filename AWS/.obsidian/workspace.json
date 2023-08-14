@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "11c7978f667802ed",
-        "type": "tabs",
+        "id": "c72328354c5b7d97",
+        "type": "split",
         "children": [
           {
-            "id": "c28223ee72844bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. EC2 Instance Storage.md",
-                "mode": "source",
-                "source": false
+            "id": "11c7978f667802ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c28223ee72844bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. EC2 Instance Storage.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "0b538e3274322ae4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5e7ec00b64a241a",
+                "type": "leaf",
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Untitled Diagram.svg"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. EC2 Instance Storage.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. EC2 Instance Storage.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. EC2 Instance Storage.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -163,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28223ee72844bfa",
+  "active": "b5e7ec00b64a241a",
   "lastOpenFiles": [
-    "Diagrams/4.1 EBS Volumes Example.svg",
     "4. EC2 Instance Storage.md",
+    "Untitled Diagram.svg",
+    "Diagrams/4.1 EBS Volumes Example.svg",
     "3. EC2 - Solutions Architect Associate Level.md",
     "1. IAM & AWS CLI.md",
     "2. EC2 Fundamentals.md",
