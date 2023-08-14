@@ -161,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ee841ab94e8de22",
+  "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
+    "Images/4.2 EBS Volume Types Summary - HDD.png",
+    "Images",
+    "Images/4.1 EBS Volume Types Summary - SSD.png",
     "4.2 EBS Snapshots.svg",
     "4. EC2 Instance Storage.md",
     "Diagrams/4.1 EBS Volumes Example.svg",
