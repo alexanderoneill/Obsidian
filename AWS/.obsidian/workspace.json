@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bb85b420c0b065",
+  "active": "b5377f9aeb46abf0",
   "lastOpenFiles": [
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
