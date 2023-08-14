@@ -10,7 +10,7 @@
           {
             "id": "11c7978f667802ed",
             "type": "tabs",
-            "dimension": 52.28571428571429,
+            "dimension": 50,
             "children": [
               {
                 "id": "c28223ee72844bfa",
@@ -27,17 +27,17 @@
             ]
           },
           {
-            "id": "c8a548576758d2b8",
+            "id": "6a8627c05cf9df54",
             "type": "tabs",
-            "dimension": 47.714285714285715,
+            "dimension": 50,
             "children": [
               {
-                "id": "398b85d1fb16cee0",
+                "id": "0acb05d098cd65f3",
                 "type": "leaf",
                 "state": {
                   "type": "diagram-edit",
                   "state": {
-                    "file": "Diagrams/Placement Groups - Spread.svg"
+                    "file": "Untitled Diagram.svg"
                   }
                 }
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -188,16 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28223ee72844bfa",
+  "active": "0acb05d098cd65f3",
   "lastOpenFiles": [
-    "Diagrams",
-    "Diagrams/Private vs Public IP (IPv4).svg",
-    "2. EC2 Fundamentals.md",
     "3. EC2 - Solutions Architect Associate Level.md",
-    "Diagrams/Placement Groups - Spread.svg",
+    "Untitled Diagram.svg",
+    "Diagrams/3.3 Placement Groups - Spread.svg",
+    "Diagrams",
+    "Diagrams/3.1 Private vs Public IP (IPv4).svg",
+    "2. EC2 Fundamentals.md",
     "4. EC2 Instance Storage.md",
-    "Diagrams/Placement Groups - Cluster.svg",
-    "Diagrams/Placement Groups - Partition.svg",
+    "Diagrams/3.2 Placement Groups - Cluster.svg",
+    "Diagrams/3.4 Placement Groups - Partition.svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
     "27. Other Services.md",
