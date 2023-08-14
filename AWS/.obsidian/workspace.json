@@ -37,7 +37,7 @@
                 "state": {
                   "type": "diagram-edit",
                   "state": {
-                    "file": "Placement Groups - Spread.svg"
+                    "file": "Diagrams/Placement Groups - Spread.svg"
                   }
                 }
               }
@@ -190,13 +190,14 @@
   },
   "active": "c28223ee72844bfa",
   "lastOpenFiles": [
-    "Private vs Public IP (IPv4).svg",
+    "Diagrams",
+    "Diagrams/Private vs Public IP (IPv4).svg",
     "2. EC2 Fundamentals.md",
     "3. EC2 - Solutions Architect Associate Level.md",
-    "Placement Groups - Spread.svg",
+    "Diagrams/Placement Groups - Spread.svg",
     "4. EC2 Instance Storage.md",
-    "Placement Groups - Cluster.svg",
-    "Placement Groups - Partition.svg",
+    "Diagrams/Placement Groups - Cluster.svg",
+    "Diagrams/Placement Groups - Partition.svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
     "27. Other Services.md",
