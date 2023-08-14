@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. IAM & AWS CLI.md",
+                "file": "2. EC2 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Reliability",
+                "query": "tag:#OS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. IAM & AWS CLI.md",
+                "file": "2. EC2 Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. IAM & AWS CLI.md",
+                "file": "2. EC2 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. IAM & AWS CLI.md"
+                "file": "2. EC2 Fundamentals.md"
               }
             }
           },
@@ -145,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +163,10 @@
   },
   "active": "50bb85b420c0b065",
   "lastOpenFiles": [
-    "3. EC2 - Solutions Architect Associate Level.md",
-    "4. EC2 Instance Storage.md",
     "2. EC2 Fundamentals.md",
+    "4. EC2 Instance Storage.md",
     "1. IAM & AWS CLI.md",
+    "3. EC2 - Solutions Architect Associate Level.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
