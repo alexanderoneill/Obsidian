@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "081612e6c64ec4b9",
+        "id": "a92ee8ca912fecda",
         "type": "split",
         "children": [
           {
@@ -26,16 +26,16 @@
             ]
           },
           {
-            "id": "c0fab440b74fbb25",
+            "id": "45fee6cddbf5ddea",
             "type": "tabs",
             "children": [
               {
-                "id": "78c0349a66d69655",
+                "id": "0e9e1ca2ce55a44c",
                 "type": "leaf",
                 "state": {
                   "type": "diagram-edit",
                   "state": {
-                    "file": "Placement Groups - Cluster.svg"
+                    "file": "Untitled Diagram.svg"
                   }
                 }
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -186,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43ccbdd2ea40231d",
+  "active": "0e9e1ca2ce55a44c",
   "lastOpenFiles": [
-    "Placement Groups - Cluster.svg",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "Untitled Diagram.svg",
+    "Placement Groups - Cluster.svg",
     "Private vs Public IP (IPv4).svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
