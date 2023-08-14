@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,17 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28223ee72844bfa",
+  "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
     "3. EC2 - Solutions Architect Associate Level.md",
-    "2. EC2 Fundamentals.md",
     "1. IAM & AWS CLI.md",
+    "4. EC2 Instance Storage.md",
+    "2. EC2 Fundamentals.md",
     "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams/3.5 Elastic Network Interfaces.svg",
     "Diagrams/3.3 Placement Groups - Spread.svg",
     "Diagrams",
     "Diagrams/3.1 Private vs Public IP (IPv4).svg",
-    "4. EC2 Instance Storage.md",
     "Diagrams/3.2 Placement Groups - Cluster.svg",
     "Diagrams/3.4 Placement Groups - Partition.svg",
     "Untitled.canvas",
