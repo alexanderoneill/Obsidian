@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11c7978f667802ed",
+        "id": "93cf6dd225fdd69c",
         "type": "tabs",
         "children": [
           {
-            "id": "c28223ee72844bfa",
+            "id": "50bb85b420c0b065",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Snapshots",
+                "query": "tag:#Reliability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,16 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "938924b61c0a734e",
+  "active": "50bb85b420c0b065",
   "lastOpenFiles": [
+    "4. EC2 Instance Storage.md",
+    "3. EC2 - Solutions Architect Associate Level.md",
+    "1. IAM & AWS CLI.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
     "Diagrams/4.2 EBS Snapshots.svg",
-    "4. EC2 Instance Storage.md",
     "Diagrams/4.1 EBS Volumes Example.svg",
-    "3. EC2 - Solutions Architect Associate Level.md",
-    "1. IAM & AWS CLI.md",
     "2. EC2 Fundamentals.md",
     "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams/3.5 Elastic Network Interfaces.svg",
