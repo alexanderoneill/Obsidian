@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "57857ad73c44d225",
+        "id": "11c7978f667802ed",
         "type": "tabs",
         "children": [
           {
-            "id": "43ccbdd2ea40231d",
+            "id": "c28223ee72844bfa",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "markdown",
               "state": {
-                "file": "Placement Groups - Cluster.svg"
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -30,6 +32,16 @@
         "id": "8cc107fd1ef60e61",
         "type": "tabs",
         "children": [
+          {
+            "id": "3c0f5c4e142e8373",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "938924b61c0a734e",
             "type": "leaf",
@@ -60,23 +72,12 @@
               "type": "tagfolder-view",
               "state": {}
             }
-          },
-          {
-            "id": "3c0f5c4e142e8373",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1134.5
+    "width": 358.5
   },
   "right": {
     "id": "8c9ed6e0ba58db55",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Placement Groups - Cluster.svg",
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Placement Groups - Cluster.svg",
+                "file": "3. EC2 - Solutions Architect Associate Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Placement Groups - Cluster.svg"
+                "file": "3. EC2 - Solutions Architect Associate Level.md"
               }
             }
           },
@@ -162,12 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "c28223ee72844bfa",
   "lastOpenFiles": [
+    "4. EC2 Instance Storage.md",
+    "Placement Groups - Cluster.svg",
     "3. EC2 - Solutions Architect Associate Level.md",
     "Placement Groups - Partition.svg",
-    "Placement Groups - Cluster.svg",
-    "4. EC2 Instance Storage.md",
     "Private vs Public IP (IPv4).svg",
     "Untitled.canvas",
     "1. IAM & AWS CLI.md",
