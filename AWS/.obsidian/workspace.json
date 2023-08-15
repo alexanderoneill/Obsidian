@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "4. EC2 Instance Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "4. EC2 Instance Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "4. EC2 Instance Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md"
+                "file": "4. EC2 Instance Storage.md"
               }
             }
           },
@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5575bf36944aebf0",
+  "active": "50bb85b420c0b065",
   "lastOpenFiles": [
+    "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
     "2. EC2 Fundamentals.md",
