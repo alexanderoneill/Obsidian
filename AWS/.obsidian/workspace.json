@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. IAM & AWS CLI.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AWS-CloudShell",
+                "query": "tag:#AWS-CLI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. IAM & AWS CLI.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. IAM & AWS CLI.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. IAM & AWS CLI.md"
+                "file": "5. High Availability and Scalability - ELB & ASG.md"
               }
             }
           },
@@ -163,13 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "938924b61c0a734e",
+  "active": "50bb85b420c0b065",
   "lastOpenFiles": [
-    "3. EC2 - Solutions Architect Associate Level.md",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "4. EC2 Instance Storage.md",
-    "5. High Availability and Scalability - ELB & ASG.md",
+    "3. EC2 - Solutions Architect Associate Level.md",
     "2. EC2 Fundamentals.md",
     "1. IAM & AWS CLI.md",
+    "5. High Availability and Scalability - ELB & ASG.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
@@ -202,7 +202,6 @@
     "11. Amazon S3 Security.md",
     "10. Advanced Amazon S3.md",
     "9. Amazon S3 Introduction.md",
-    "8. Classic Solutions Architecture Discussions.md",
-    "7. Route 53.md"
+    "8. Classic Solutions Architecture Discussions.md"
   ]
 }
