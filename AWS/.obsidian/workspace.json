@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. EC2 Instance Storage.md",
+                "file": "1. IAM & AWS CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OS",
+                "query": "tag:#AWS-CloudShell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. EC2 Instance Storage.md",
+                "file": "1. IAM & AWS CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. EC2 Instance Storage.md",
+                "file": "1. IAM & AWS CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. EC2 Instance Storage.md"
+                "file": "1. IAM & AWS CLI.md"
               }
             }
           },
@@ -162,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bb85b420c0b065",
+  "active": "938924b61c0a734e",
   "lastOpenFiles": [
-    "5. High Availability and Scalability - ELB & ASG.md",
-    "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "4. EC2 Instance Storage.md",
+    "5. High Availability and Scalability - ELB & ASG.md",
     "2. EC2 Fundamentals.md",
     "1. IAM & AWS CLI.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
