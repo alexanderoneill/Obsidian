@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf25236443f67400",
-        "type": "split",
+        "id": "93cf6dd225fdd69c",
+        "type": "tabs",
         "children": [
           {
-            "id": "93cf6dd225fdd69c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50bb85b420c0b065",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "5. High Availability and Scalability - ELB & ASG.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "50bb85b420c0b065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "fb876ac0f28506c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7030f88f316c7033",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Untitled Diagram.svg"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "5. High Availability and Scalability - ELB & ASG.md"
               }
             }
           },
@@ -185,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7030f88f316c7033",
+  "active": "50bb85b420c0b065",
   "lastOpenFiles": [
+    "Diagrams/5.2 Network Load Balancer.svg",
     "5. High Availability and Scalability - ELB & ASG.md",
-    "Untitled Diagram.svg",
     "4. EC2 Instance Storage.md",
     "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
