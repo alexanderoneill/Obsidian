@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "93cf6dd225fdd69c",
-        "type": "tabs",
+        "id": "74a0b2596b9543aa",
+        "type": "split",
         "children": [
           {
-            "id": "50bb85b420c0b065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
-                "mode": "source",
-                "source": false
+            "id": "93cf6dd225fdd69c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "50bb85b420c0b065",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5. High Availability and Scalability - ELB & ASG.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "d60d1ab72853c921",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ab4a6933a93caf1d",
+                "type": "leaf",
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Untitled Diagram.svg"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -162,14 +185,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bb85b420c0b065",
+  "active": "ab4a6933a93caf1d",
   "lastOpenFiles": [
+    "5. High Availability and Scalability - ELB & ASG.md",
+    "Untitled Diagram.svg",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
     "2. EC2 Fundamentals.md",
     "1. IAM & AWS CLI.md",
-    "5. High Availability and Scalability - ELB & ASG.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
@@ -181,7 +205,6 @@
     "Diagrams",
     "Diagrams/3.1 Private vs Public IP (IPv4).svg",
     "Diagrams/3.2 Placement Groups - Cluster.svg",
-    "Diagrams/3.4 Placement Groups - Partition.svg",
     "Untitled.canvas",
     "27. Other Services.md",
     "26. More Solution Architectures.md",
@@ -201,7 +224,6 @@
     "12. CloudFront & AWS Global Accelerator.md",
     "11. Amazon S3 Security.md",
     "10. Advanced Amazon S3.md",
-    "9. Amazon S3 Introduction.md",
-    "8. Classic Solutions Architecture Discussions.md"
+    "9. Amazon S3 Introduction.md"
   ]
 }
