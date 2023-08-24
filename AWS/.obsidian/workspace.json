@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EBS",
+                "query": "tag:#AWS-CLI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. EC2 Fundamentals.md"
+                "file": "5. High Availability and Scalability - ELB & ASG.md"
               }
             }
           },
@@ -162,19 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5575bf36944aebf0",
+  "active": "50bb85b420c0b065",
   "lastOpenFiles": [
+    "Diagrams/2.2 Inbound & Outbound Rules.svg",
+    "Diagrams/2.1 Security Groups.svg",
+    "Diagrams/5.2 Network Load Balancer.svg",
     "5. High Availability and Scalability - ELB & ASG.md",
+    "4. EC2 Instance Storage.md",
+    "1. IAM & AWS CLI.md",
+    "3. EC2 - Solutions Architect Associate Level.md",
+    "Diagrams/5.1 Application Load Balancer.svg",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "2. EC2 Fundamentals.md",
-    "Diagrams/2.1 Security Groups.svg",
-    "Diagrams/2.2 Inbound & Outbound Rules.svg",
-    "Security Groups.svg.md",
-    "3. EC2 - Solutions Architect Associate Level.md",
-    "1. IAM & AWS CLI.md",
-    "Diagrams/5.2 Network Load Balancer.svg",
-    "4. EC2 Instance Storage.md",
-    "Diagrams/5.1 Application Load Balancer.svg",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
@@ -182,6 +181,7 @@
     "Diagrams/4.1 EBS Volumes Example.svg",
     "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams/3.5 Elastic Network Interfaces.svg",
+    "Diagrams/3.3 Placement Groups - Spread.svg",
     "Diagrams",
     "Untitled.canvas",
     "27. Other Services.md",
@@ -201,6 +201,7 @@
     "13. AWS Storage Extras.md",
     "12. CloudFront & AWS Global Accelerator.md",
     "11. Amazon S3 Security.md",
-    "10. Advanced Amazon S3.md"
+    "10. Advanced Amazon S3.md",
+    "9. Amazon S3 Introduction.md"
   ]
 }
