@@ -11,8 +11,12 @@
             "id": "50bb85b420c0b065",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. EC2 Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. EC2 Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. EC2 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. EC2 Fundamentals.md"
+              }
             }
           },
           {
@@ -154,11 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bb85b420c0b065",
+  "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
+    "Diagrams/2.1 Security Groups.svg",
+    "Diagrams/2.2 Inbound & Outbound Rules.svg",
+    "Security Groups.svg.md",
     "2. EC2 Fundamentals.md",
-    "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "1. IAM & AWS CLI.md",
     "5. High Availability and Scalability - ELB & ASG.md",
     "Diagrams/5.2 Network Load Balancer.svg",
     "4. EC2 Instance Storage.md",
@@ -173,7 +184,6 @@
     "Diagrams/3.5 Elastic Network Interfaces.svg",
     "Diagrams/3.3 Placement Groups - Spread.svg",
     "Diagrams",
-    "Diagrams/3.1 Private vs Public IP (IPv4).svg",
     "Untitled.canvas",
     "27. Other Services.md",
     "26. More Solution Architectures.md",
@@ -192,7 +202,6 @@
     "13. AWS Storage Extras.md",
     "12. CloudFront & AWS Global Accelerator.md",
     "11. Amazon S3 Security.md",
-    "10. Advanced Amazon S3.md",
-    "9. Amazon S3 Introduction.md"
+    "10. Advanced Amazon S3.md"
   ]
 }
