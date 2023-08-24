@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,19 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "5575bf36944aebf0",
   "lastOpenFiles": [
+    "5. High Availability and Scalability - ELB & ASG.md",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "2. EC2 Fundamentals.md",
     "Diagrams/2.1 Security Groups.svg",
     "Diagrams/2.2 Inbound & Outbound Rules.svg",
     "Security Groups.svg.md",
-    "2. EC2 Fundamentals.md",
     "3. EC2 - Solutions Architect Associate Level.md",
     "1. IAM & AWS CLI.md",
-    "5. High Availability and Scalability - ELB & ASG.md",
     "Diagrams/5.2 Network Load Balancer.svg",
     "4. EC2 Instance Storage.md",
     "Diagrams/5.1 Application Load Balancer.svg",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
@@ -182,7 +182,6 @@
     "Diagrams/4.1 EBS Volumes Example.svg",
     "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams/3.5 Elastic Network Interfaces.svg",
-    "Diagrams/3.3 Placement Groups - Spread.svg",
     "Diagrams",
     "Untitled.canvas",
     "27. Other Services.md",
