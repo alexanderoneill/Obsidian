@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "2. EC2 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "2. EC2 Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "2. EC2 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md"
+                "file": "2. EC2 Fundamentals.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,13 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bb85b420c0b065",
+  "active": "b5377f9aeb46abf0",
   "lastOpenFiles": [
-    "Diagrams/5.2 Network Load Balancer.svg",
+    "3. EC2 - Solutions Architect Associate Level.md",
     "5. High Availability and Scalability - ELB & ASG.md",
+    "Diagrams/5.2 Network Load Balancer.svg",
     "4. EC2 Instance Storage.md",
     "1. IAM & AWS CLI.md",
-    "3. EC2 - Solutions Architect Associate Level.md",
     "Diagrams/5.1 Application Load Balancer.svg",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "2. EC2 Fundamentals.md",
