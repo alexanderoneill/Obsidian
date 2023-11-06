@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1337b7219e1803cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd11909ddeb8cc73",
+  "active": "1337b7219e1803cd",
   "lastOpenFiles": [
     "25. Disaster Recovery & Migrations.md",
     "2. EC2 Fundamentals.md",
