@@ -11,11 +11,9 @@
             "id": "bd11909ddeb8cc73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
-                "mode": "source",
-                "source": false
+                "file": "Diagrams/5.2 Network Load Balancer.svg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "Diagrams/5.2 Network Load Balancer.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "Diagrams/5.2 Network Load Balancer.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md"
+                "file": "Diagrams/5.2 Network Load Balancer.svg"
               }
             }
           },
@@ -164,8 +162,11 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "Diagrams/2.1 Security Groups.svg",
+    "Images/4.2 EBS Volume Types Summary - HDD.png",
+    "Images/4.1 EBS Volume Types Summary - SSD.png",
     "5. High Availability and Scalability - ELB & ASG.md",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
@@ -187,21 +188,17 @@
     "25. Disaster Recovery & Migrations.md",
     "2. EC2 Fundamentals.md",
     "Diagrams/2.2 Inbound & Outbound Rules.svg",
-    "Diagrams/2.1 Security Groups.svg",
     "Diagrams/5.2 Network Load Balancer.svg",
     "4. EC2 Instance Storage.md",
     "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
     "Diagrams/5.1 Application Load Balancer.svg",
-    "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images",
-    "Images/4.1 EBS Volume Types Summary - SSD.png",
     "Diagrams/4.2 EBS Snapshots.svg",
     "Diagrams/4.1 EBS Volumes Example.svg",
     "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams/3.5 Elastic Network Interfaces.svg",
     "Diagrams",
-    "Untitled.canvas",
-    "27. Other Services.md"
+    "Untitled.canvas"
   ]
 }
