@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AWS-CLI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,14 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd11909ddeb8cc73",
+  "active": "b5377f9aeb46abf0",
   "lastOpenFiles": [
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "5. High Availability and Scalability - ELB & ASG.md",
     "Diagrams/5.2 Network Load Balancer.svg",
     "Diagrams/2.1 Security Groups.svg",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
-    "5. High Availability and Scalability - ELB & ASG.md",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
