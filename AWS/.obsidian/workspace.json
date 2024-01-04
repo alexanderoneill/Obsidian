@@ -11,9 +11,11 @@
             "id": "bd11909ddeb8cc73",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/5.2 Network Load Balancer.svg"
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/5.2 Network Load Balancer.svg",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/5.2 Network Load Balancer.svg",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrams/5.2 Network Load Balancer.svg"
+                "file": "5. High Availability and Scalability - ELB & ASG.md"
               }
             }
           },
@@ -162,6 +164,7 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
+    "Diagrams/5.2 Network Load Balancer.svg",
     "Diagrams/2.1 Security Groups.svg",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
@@ -188,7 +191,6 @@
     "25. Disaster Recovery & Migrations.md",
     "2. EC2 Fundamentals.md",
     "Diagrams/2.2 Inbound & Outbound Rules.svg",
-    "Diagrams/5.2 Network Load Balancer.svg",
     "4. EC2 Instance Storage.md",
     "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
