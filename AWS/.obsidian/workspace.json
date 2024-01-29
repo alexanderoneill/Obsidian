@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "42cbe1085c03012f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md"
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
               }
             }
           },
@@ -173,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42cbe1085c03012f",
+  "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "5. High Availability and Scalability - ELB & ASG.md",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Diagrams/5.2 Network Load Balancer.svg",
     "Diagrams/2.1 Security Groups.svg",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
