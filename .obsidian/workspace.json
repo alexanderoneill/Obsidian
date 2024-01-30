@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "4. EC2 Instance Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "4. EC2 Instance Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "4. EC2 Instance Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
+                "file": "4. EC2 Instance Storage.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
