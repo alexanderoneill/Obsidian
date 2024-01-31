@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. EC2 Fundamentals.md"
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "2. EC2 Fundamentals.md",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "1. IAM & AWS CLI.md",
     "3. EC2 - Solutions Architect Associate Level.md",
     "4. EC2 Instance Storage.md",
