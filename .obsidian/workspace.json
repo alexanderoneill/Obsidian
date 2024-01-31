@@ -164,8 +164,9 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "5. High Availability and Scalability - ELB & ASG.md",
+    "Untitled Diagram 1.svg",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "5. High Availability and Scalability - ELB & ASG.md",
     "Untitled Diagram.svg",
     "2. EC2 Fundamentals.md",
     "1. IAM & AWS CLI.md",
@@ -199,7 +200,6 @@
     "Images",
     "Diagrams/4.2 EBS Snapshots.svg",
     "Diagrams/4.1 EBS Volumes Example.svg",
-    "Diagrams/3.6 EC2 Hibernate.svg",
     "Diagrams",
     "Untitled.canvas"
   ]
