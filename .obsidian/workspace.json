@@ -152,9 +152,13 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
+    "Diagrams/2.1 Security Groups.svg",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "Images/6.3 RDS Single AZ to Multi AZ.png",
+    "Images/6.2 RDS Multi AZ Disaster Recovery.png",
+    "7bhvOHq.png",
     "Images/6.1 RDS Read Replicas.png",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "5. High Availability and Scalability - ELB & ASG.md",
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
@@ -163,7 +167,6 @@
     "3. EC2 - Solutions Architect Associate Level.md",
     "4. EC2 Instance Storage.md",
     "Diagrams/5.2 Network Load Balancer.svg",
-    "Diagrams/2.1 Security Groups.svg",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
     "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
@@ -184,10 +187,7 @@
     "23. AWS Security & Encryption - KMS, SSM Parameter Store, CloudHSM, Shield, WAF.md",
     "24. Networking - VPC.md",
     "25. Disaster Recovery & Migrations.md",
-    "Diagrams/2.2 Inbound & Outbound Rules.svg",
-    "Diagrams/5.1 Application Load Balancer.svg",
     "Images",
-    "Diagrams/4.2 EBS Snapshots.svg",
     "Diagrams",
     "Untitled.canvas"
   ]
