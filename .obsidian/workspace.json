@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "2. EC2 Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "2. EC2 Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "2. EC2 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
+                "file": "2. EC2 Fundamentals.md"
               }
             }
           },
@@ -152,23 +152,23 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "Diagrams/2.1 Security Groups.svg",
+    "3. EC2 - Solutions Architect Associate Level.md",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "7. Route 53.md",
+    "5. High Availability and Scalability - ELB & ASG.md",
+    "4. EC2 Instance Storage.md",
+    "1. IAM & AWS CLI.md",
+    "2. EC2 Fundamentals.md",
+    "Diagrams/2.1 Security Groups.svg",
     "Images/6.3 RDS Single AZ to Multi AZ.png",
     "Images/6.2 RDS Multi AZ Disaster Recovery.png",
     "7bhvOHq.png",
     "Images/6.1 RDS Read Replicas.png",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
-    "5. High Availability and Scalability - ELB & ASG.md",
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
-    "2. EC2 Fundamentals.md",
-    "1. IAM & AWS CLI.md",
-    "3. EC2 - Solutions Architect Associate Level.md",
-    "4. EC2 Instance Storage.md",
     "Diagrams/5.2 Network Load Balancer.svg",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
-    "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
     "10. Advanced Amazon S3.md",
