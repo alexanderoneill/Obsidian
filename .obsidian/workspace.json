@@ -150,8 +150,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd11909ddeb8cc73",
+  "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
+    "Images/6.10 Aurora Machine Learning.png",
+    "Images/6.9 Global Aurora.png",
     "7. Route 53.md",
     "Images/6.8 Aurora Serverless.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
@@ -164,7 +166,6 @@
     "Images/2.2 EC2 Terminating a Spot Instance.png",
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
-    "Images/2.1 EC2 Pricing Comparison.png",
     "3. EC2 - Solutions Architect Associate Level.md",
     "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
