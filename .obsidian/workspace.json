@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "5. High Availability and Scalability - ELB & ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
+                "file": "5. High Availability and Scalability - ELB & ASG.md"
               }
             }
           },
@@ -150,13 +150,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
+    "Pasted image 20240201133934.png",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Images/6.10 Aurora Machine Learning.png",
     "Images/6.9 Global Aurora.png",
     "7. Route 53.md",
     "Images/6.8 Aurora Serverless.png",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Images/6.7 Aurora Custom Endpoints.png",
     "Images/6.6 Aurora Replicas - Auto Scaling.png",
     "Images/6.5 Aurora DB Cluster.png",
@@ -165,7 +166,6 @@
     "2. EC2 Fundamentals.md",
     "Images/2.2 EC2 Terminating a Spot Instance.png",
     "Untitled Diagram 1.svg",
-    "Untitled Diagram.svg",
     "3. EC2 - Solutions Architect Associate Level.md",
     "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
