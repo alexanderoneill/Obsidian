@@ -150,15 +150,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd11909ddeb8cc73",
+  "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
+    "Pasted image 20240201133934.png",
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "Images/6.11 RDS Proxy.png",
     "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
     "1. IAM & AWS CLI.md",
     "2. EC2 Fundamentals.md",
-    "Pasted image 20240201133934.png",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Images/6.10 Aurora Machine Learning.png",
     "Images/6.9 Global Aurora.png",
     "7. Route 53.md",
@@ -168,7 +169,6 @@
     "Images/6.5 Aurora DB Cluster.png",
     "Images/6.4 Aurora Read Replicas.png",
     "X4o9R3H.png",
-    "Images/2.2 EC2 Terminating a Spot Instance.png",
     "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
     "10. Advanced Amazon S3.md",
