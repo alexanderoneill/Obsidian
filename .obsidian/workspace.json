@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "87fb7b91d3644b01",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "e2d6c17fd77fa99a",
             "type": "leaf",
             "state": {
@@ -154,12 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "graph:Open graph view": false
     }
   },
   "active": "bd11909ddeb8cc73",
