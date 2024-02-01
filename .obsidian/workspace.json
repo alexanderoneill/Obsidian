@@ -15,6 +15,7 @@
               "state": {
                 "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -151,9 +152,11 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "Untitled Diagram 1.svg",
+    "Images/6.1 RDS Read Replicas.png",
+    "Images/4.2 EBS Volume Types Summary - HDD.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "5. High Availability and Scalability - ELB & ASG.md",
+    "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
     "2. EC2 Fundamentals.md",
     "1. IAM & AWS CLI.md",
@@ -161,7 +164,6 @@
     "4. EC2 Instance Storage.md",
     "Diagrams/5.2 Network Load Balancer.svg",
     "Diagrams/2.1 Security Groups.svg",
-    "Images/4.2 EBS Volume Types Summary - HDD.png",
     "Images/4.1 EBS Volume Types Summary - SSD.png",
     "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
@@ -186,7 +188,6 @@
     "Diagrams/5.1 Application Load Balancer.svg",
     "Images",
     "Diagrams/4.2 EBS Snapshots.svg",
-    "Diagrams/4.1 EBS Volumes Example.svg",
     "Diagrams",
     "Untitled.canvas"
   ]
