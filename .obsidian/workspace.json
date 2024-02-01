@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Availability and Scalability - ELB & ASG.md"
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
               }
             }
           },
@@ -152,6 +152,11 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
+    "5. High Availability and Scalability - ELB & ASG.md",
+    "4. EC2 Instance Storage.md",
+    "3. EC2 - Solutions Architect Associate Level.md",
+    "1. IAM & AWS CLI.md",
+    "2. EC2 Fundamentals.md",
     "Pasted image 20240201133934.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Images/6.10 Aurora Machine Learning.png",
@@ -163,13 +168,7 @@
     "Images/6.5 Aurora DB Cluster.png",
     "Images/6.4 Aurora Read Replicas.png",
     "X4o9R3H.png",
-    "2. EC2 Fundamentals.md",
     "Images/2.2 EC2 Terminating a Spot Instance.png",
-    "Untitled Diagram 1.svg",
-    "3. EC2 - Solutions Architect Associate Level.md",
-    "5. High Availability and Scalability - ELB & ASG.md",
-    "4. EC2 Instance Storage.md",
-    "1. IAM & AWS CLI.md",
     "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
     "10. Advanced Amazon S3.md",
