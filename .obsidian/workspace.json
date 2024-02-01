@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. EC2 Fundamentals.md",
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. EC2 Fundamentals.md"
+                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
               }
             }
           },
@@ -150,11 +150,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
+    "2. EC2 Fundamentals.md",
     "Images/2.2 EC2 Terminating a Spot Instance.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
-    "2. EC2 Fundamentals.md",
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
     "Images/2.1 EC2 Pricing Comparison.png",
@@ -169,7 +169,6 @@
     "7bhvOHq.png",
     "Images/6.1 RDS Read Replicas.png",
     "Images/4.2 EBS Volume Types Summary - HDD.png",
-    "Diagrams/5.2 Network Load Balancer.svg",
     "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
     "10. Advanced Amazon S3.md",
