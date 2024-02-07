@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "7. Route 53.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "7. Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+                "file": "7. Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AWS Fundamentals - RDS + Aurora + Elasticache.md"
+                "file": "7. Route 53.md"
               }
             }
           },
@@ -152,8 +152,8 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "7. Route 53.md",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
+    "7. Route 53.md",
     "Images/6.13 ElastiCache User Session Store.png",
     "Images/6.12 ElastiCache DB Cache.png",
     "Pasted image 20240201133934.png",
