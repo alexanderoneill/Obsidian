@@ -152,8 +152,9 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
-    "Images/7.2 DNS Breakdown.png",
+    "8. Classic Solutions Architecture Discussions.md",
     "7. Route 53.md",
+    "Images/7.2 DNS Breakdown.png",
     "yPwPRt1.png",
     "Images/7.1 URL Breakdown.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
@@ -169,7 +170,6 @@
     "Images/6.10 Aurora Machine Learning.png",
     "Images/6.9 Global Aurora.png",
     "Images/6.8 Aurora Serverless.png",
-    "8. Classic Solutions Architecture Discussions.md",
     "9. Amazon S3 Introduction.md",
     "10. Advanced Amazon S3.md",
     "11. Amazon S3 Security.md",
