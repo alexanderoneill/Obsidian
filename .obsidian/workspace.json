@@ -11,8 +11,13 @@
             "id": "bd11909ddeb8cc73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. Route 53.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. Route 53.md"
+              }
             }
           },
           {
@@ -143,12 +152,12 @@
   },
   "active": "bd11909ddeb8cc73",
   "lastOpenFiles": [
+    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
     "Images/7.2 DNS Breakdown.png",
     "yPwPRt1.png",
     "Images/7.1 URL Breakdown.png",
-    "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "Images/6.13 ElastiCache User Session Store.png",
     "Images/6.12 ElastiCache DB Cache.png",
     "Pasted image 20240201133934.png",
