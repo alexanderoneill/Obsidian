@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0521a6012b6991d",
+        "id": "87a1121e2514845b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd11909ddeb8cc73",
+            "id": "e35448c618d88008",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,20 +152,20 @@
   },
   "active": "3c0f5c4e142e8373",
   "lastOpenFiles": [
-    "Images/7.6 Latency Routing.png",
-    "Pasted image 20240214161730.png",
+    "Images/7.X Routing Failover.png",
+    "Images/7.6 Weighted Routing.png",
     "7. Route 53.md",
-    "Images/7.5 Weighted Routing.png",
+    "Images/7.4 Private Zone Health Checks.png",
+    "Images/7.7 Latency Routing.png",
+    "Pasted image 20240214161730.png",
     "Pasted image 20240214161441.png",
-    "Images/7.4 Simple Routing.png",
+    "Images/7.5 Simple Routing.png",
     "Images/7.3 Public vs Private Hosted Zones.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "8. Classic Solutions Architecture Discussions.md",
     "Images/7.2 DNS Breakdown.png",
     "yPwPRt1.png",
     "Images/7.1 URL Breakdown.png",
-    "Images/6.13 ElastiCache User Session Store.png",
-    "Images/6.12 ElastiCache DB Cache.png",
     "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
