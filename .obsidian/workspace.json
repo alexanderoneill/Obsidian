@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Route 53.md",
+                "file": "8. Classic Solutions Architecture Discussions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Route 53.md",
+                "file": "8. Classic Solutions Architecture Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Route 53.md",
+                "file": "8. Classic Solutions Architecture Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Route 53.md"
+                "file": "8. Classic Solutions Architecture Discussions.md"
               }
             }
           },
@@ -150,12 +150,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "e35448c618d88008",
   "lastOpenFiles": [
+    "7. Route 53.md",
     "Images/7.X Geoproximity Routing.png",
     "Images/7.X Routing Failover.png",
     "Images/7.6 Weighted Routing.png",
-    "7. Route 53.md",
     "Images/7.4 Private Zone Health Checks.png",
     "Images/7.7 Latency Routing.png",
     "Pasted image 20240214161730.png",
@@ -165,7 +165,6 @@
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "8. Classic Solutions Architecture Discussions.md",
     "Images/7.2 DNS Breakdown.png",
-    "yPwPRt1.png",
     "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
