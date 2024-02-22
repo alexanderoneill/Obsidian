@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Route 53.md",
+                "file": "8. Amazon S3 Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Route 53.md",
+                "file": "8. Amazon S3 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Route 53.md",
+                "file": "8. Amazon S3 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Route 53.md"
+                "file": "8. Amazon S3 Introduction.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "e35448c618d88008",
   "lastOpenFiles": [
+    "7. Route 53.md",
     "8. Classic Solutions Architecture Discussions.md",
     "Images/8.1 WhatsTheTime Stage1.png",
     "Images/8.8 WhatsTheTime Stage8.png",
@@ -161,7 +162,6 @@
     "Images/8.4 WhatsTheTime Stage4.png",
     "Images/8.3 WhatsTheTime Stage3.png",
     "Images/8.2 WhatsTheTime Stage2.png",
-    "7. Route 53.md",
     "Images/7.8 Geoproximity Routing.png",
     "Images/7.9 Routing Failover.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
