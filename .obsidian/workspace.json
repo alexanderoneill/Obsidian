@@ -11,8 +11,13 @@
             "id": "e35448c618d88008",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. Route 53.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. Route 53.md"
+              }
             }
           },
           {
@@ -141,7 +150,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3c0f5c4e142e8373",
+  "active": "e35448c618d88008",
   "lastOpenFiles": [
     "8. Classic Solutions Architecture Discussions.md",
     "Images/8.1 WhatsTheTime Stage1.png",
@@ -153,8 +162,8 @@
     "Images/8.3 WhatsTheTime Stage3.png",
     "Images/8.2 WhatsTheTime Stage2.png",
     "7. Route 53.md",
-    "Images/7.X Geoproximity Routing.png",
-    "Images/7.X Routing Failover.png",
+    "Images/7.8 Geoproximity Routing.png",
+    "Images/7.9 Routing Failover.png",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "5. High Availability and Scalability - ELB & ASG.md",
     "4. EC2 Instance Storage.md",
@@ -172,12 +181,12 @@
     "16. Serverless Solution Architecture Discussions.md",
     "17. Databases in AWS.md",
     "18. Data & Analytics.md",
-    "20. Machine Learning.md",
-    "21. AWS Monitoring & Audit - CloudWatch, CloudTrail and & Config.md",
-    "22. Identity and Access Management (IAM) - Advanced.md",
-    "23. AWS Security & Encryption - KMS, SSM Parameter Store, CloudHSM, Shield, WAF.md",
-    "24. Networking - VPC.md",
-    "25. Disaster Recovery & Migrations.md",
+    "19. Machine Learning.md",
+    "20. AWS Monitoring & Audit - CloudWatch, CloudTrail and & Config.md",
+    "21. Identity and Access Management (IAM) - Advanced.md",
+    "22. AWS Security & Encryption - KMS, SSM Parameter Store, CloudHSM, Shield, WAF.md",
+    "23. Networking - VPC.md",
+    "24. Disaster Recovery & Migrations.md",
     "Images",
     "Diagrams",
     "Untitled.canvas"
