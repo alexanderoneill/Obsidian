@@ -2,5 +2,6 @@
   "showLineNumber": false,
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

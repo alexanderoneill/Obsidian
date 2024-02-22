@@ -11,13 +11,8 @@
             "id": "e35448c618d88008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. Classic Solutions Architecture Discussions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Classic Solutions Architecture Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Classic Solutions Architecture Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "8. Classic Solutions Architecture Discussions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,6 +143,8 @@
   },
   "active": "e35448c618d88008",
   "lastOpenFiles": [
+    "8. Classic Solutions Architecture Discussions.md",
+    "Images/8.1 WhatsTheTime Stage1.png",
     "Images/8.8 WhatsTheTime Stage8.png",
     "Images/8.7 WhatsTheTime Stage7.png",
     "Images/8.6 WhatsTheTime Stage6.png",
@@ -159,8 +152,6 @@
     "Images/8.4 WhatsTheTime Stage4.png",
     "Images/8.3 WhatsTheTime Stage3.png",
     "Images/8.2 WhatsTheTime Stage2.png",
-    "Images/8.1 WhatsTheTime Stage1.png",
-    "8. Classic Solutions Architecture Discussions.md",
     "7. Route 53.md",
     "Images/7.X Geoproximity Routing.png",
     "Images/7.X Routing Failover.png",
