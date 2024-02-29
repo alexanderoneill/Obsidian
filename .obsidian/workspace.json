@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "8. Amazon S3 Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "8. Amazon S3 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md",
+                "file": "8. Amazon S3 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EC2 - Solutions Architect Associate Level.md"
+                "file": "8. Amazon S3 Introduction.md"
               }
             }
           },
@@ -152,8 +152,8 @@
   },
   "active": "e35448c618d88008",
   "lastOpenFiles": [
-    "4. EC2 Instance Storage.md",
     "3. EC2 - Solutions Architect Associate Level.md",
+    "4. EC2 Instance Storage.md",
     "2. EC2 Fundamentals.md",
     "6. AWS Fundamentals - RDS + Aurora + Elasticache.md",
     "5. High Availability and Scalability - ELB & ASG.md",
